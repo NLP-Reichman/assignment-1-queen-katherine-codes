@@ -9,10 +9,10 @@
       "spanish_3_gram_length": 8468
     },
     "test_eval": {
-      "en_on_en": 30.68,
-      "en_on_fr": 103.74,
-      "en_on_tl": 89.53,
-      "en_on_nl": 73.77
+      "en_on_en": 29.01,
+      "en_on_fr": 62.83,
+      "en_on_tl": 76.73,
+      "en_on_nl": 64.77
     },
     "test_match": "NameError(\"name 'match' is not defined\")",
     "test_generate": "NameError(\"name 'generate' is not defined\")"
