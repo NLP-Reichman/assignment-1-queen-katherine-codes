@@ -14,6 +14,14 @@
       "en_on_tl": 76.73,
       "en_on_nl": 64.77
     },
-    "test_match": "NameError(\"name 'match' is not defined\")",
+    "test_match": {
+      "df_shape": [
+        256,
+        4
+      ],
+      "en_en_3": 29.01,
+      "en_tl_3": 76.73,
+      "en_nl_3": 64.77
+    },
     "test_generate": "NameError(\"name 'generate' is not defined\")"
   }
